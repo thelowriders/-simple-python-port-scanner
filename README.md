@@ -15,5 +15,5 @@ A fast, multithreaded TCP port scanner built from scratch in python.designed for
    python scanner.py
    ```
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 this tool is intended strictly for educational purposes and authorized penetration testing within private lab environments. unauthorized port scanning can be flagged as malicious network behavior. always obtain explicit permission before scanning external targets
